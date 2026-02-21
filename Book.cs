@@ -1,3 +1,7 @@
+
+/// <summary>
+/// Core book class used for the database and general book representation in the system.
+/// </summary>
 public enum Status
 {
     NotStarted,
